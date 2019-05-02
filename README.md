@@ -19,3 +19,6 @@ YandexVisionTest.py - my code
 pic1.jpg - picture example
 
 output.json - picture example recognition result
+
+## OR Change YandexVisionTestwithTokenRefresh.py with your Yandex cloud ID 
+And get actual IAM-token every time !!! :-)
