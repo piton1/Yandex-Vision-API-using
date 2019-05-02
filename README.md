@@ -1,5 +1,5 @@
-# YandexVisions
-Yandex Visions Experiences
+# YandexVision
+Yandex Vision Experiences
 
 Using Images recognition API
 
