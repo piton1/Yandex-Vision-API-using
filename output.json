@@ -1,0 +1,76 @@
+{
+ "results": [
+  {
+   "results": [
+    {
+     "classification": {
+      "properties": [
+       {
+        "name": "high",
+        "probability": 0.37257921695709229
+       },
+       {
+        "name": "medium",
+        "probability": 0.61091393232345581
+       },
+       {
+        "name": "low",
+        "probability": 0.016506871208548546
+       }
+      ]
+     }
+    },
+    {
+     "classification": {
+      "properties": [
+       {
+        "name": "adult",
+        "probability": 0.010539066046476364
+       },
+       {
+        "name": "gruesome",
+        "probability": 3.5408855183050036e-05
+       },
+       {
+        "name": "text",
+        "probability": 0.0051765195094048977
+       },
+       {
+        "name": "watermarks",
+        "probability": 0.12847186625003815
+       }
+      ]
+     }
+    },
+    {
+     "faceDetection": {
+      "faces": [
+       {
+        "boundingBox": {
+         "vertices": [
+          {
+           "x": "269",
+           "y": "118"
+          },
+          {
+           "x": "269",
+           "y": "249"
+          },
+          {
+           "x": "399",
+           "y": "249"
+          },
+          {
+           "x": "399",
+           "y": "118"
+          }
+         ]
+        }
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
