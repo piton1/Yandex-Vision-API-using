@@ -1,6 +1,6 @@
 # YandexVisions
 Yandex Visions Experiences
 
-Using Images recognition API
+Practical using Images recognition API
 
 learn more https://cloud.yandex.ru/services/vision
