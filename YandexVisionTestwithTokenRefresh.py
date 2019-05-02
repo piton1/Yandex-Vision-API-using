@@ -41,7 +41,8 @@ out = {
 with open('body.json', 'w') as f:
     json.dump(out, f)
     
-# Make command strings  
+# Make command strings
+# !!! ATTENTION: get and type your Yandex cloud ID
 cloud_id = {"yandexPassportOauthToken": "YOUR_YANDEX_CLOUD_ID_in_Quotes"}
 get_token = ''.join(("curl -X POST -H 'Content-Type: application/json' -d \"", str(cloud_id), "\" ",\
                      "https://iam.api.cloud.yandex.net/iam/v1/tokens"))
