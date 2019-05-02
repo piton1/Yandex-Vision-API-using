@@ -15,5 +15,7 @@ https://cloud.yandex.ru/docs/iam/operations/iam-token/create
 
 ## Change YandexVisionTest.py with IAM-token
 YandexVisionTest.py - my code
+
 pic1.jpg - picture example
+
 output.json - picture example recognition result
